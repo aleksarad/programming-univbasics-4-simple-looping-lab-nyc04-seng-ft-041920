@@ -17,3 +17,5 @@ def loop_message_n_times (str, n)
     count += 1 
   end
 end
+
+def output_array (arr)
