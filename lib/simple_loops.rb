@@ -28,6 +28,9 @@ end
 
 def return_string_array (arr)
   count = 0 
+  newArr = []
+  while count < arr.length do 
+    
 end 
   
   
