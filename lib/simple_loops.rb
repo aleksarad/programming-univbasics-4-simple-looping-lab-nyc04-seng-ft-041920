@@ -12,5 +12,8 @@ end
 
 def loop_message_n_times (str, n)
   count = 0 
-  while count < n
+  while count < n do 
+    puts str 
+    count += 1 
+  end
 end
