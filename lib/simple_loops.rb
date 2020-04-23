@@ -26,6 +26,7 @@ def output_array (arr)
   end
 end 
 
+def return_string_array (arr)
   
   
   
