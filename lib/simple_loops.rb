@@ -26,7 +26,6 @@ def output_array (arr)
   end
 end 
 
-output_array (["nicki", "ari"])
   
   
   
