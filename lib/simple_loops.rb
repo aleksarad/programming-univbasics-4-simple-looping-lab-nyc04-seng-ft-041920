@@ -10,6 +10,7 @@ def loop_message_five_times (str)
 end
 
 
-def loop_message_n_times (str)
+def loop_message_n_times (str, n)
   count = 0 
+  while count
 end
