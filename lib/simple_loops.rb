@@ -9,4 +9,3 @@ def loop_message_five_times (str)
   end
 end
 
-loop_message_five_times("hi")
