@@ -19,7 +19,7 @@ def loop_message_n_times (str, n)
 end
 
 def output_array (arr)
-  while arr[count]
+  while arr[count] do
 end 
   
   
