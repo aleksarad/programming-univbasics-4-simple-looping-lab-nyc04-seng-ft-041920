@@ -25,6 +25,8 @@ def output_array (arr)
     count += 1
   end
 end 
+
+output_array (["nicki", "ari"])
   
   
   
