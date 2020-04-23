@@ -8,3 +8,5 @@ def loop_message_five_times (str)
     counter += 1 
   end
 end
+
+loop_message_five_times("hi")
