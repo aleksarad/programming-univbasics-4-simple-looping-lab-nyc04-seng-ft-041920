@@ -23,6 +23,7 @@ def output_array (arr)
   while count < arr.length do 
     puts arr[count]
     count += 1
+  end
 end 
   
   
