@@ -35,6 +35,8 @@ def return_string_array (arr)
   end
   return newArr
 end 
+
+return_string_array([1,2,3])
   
   
   
