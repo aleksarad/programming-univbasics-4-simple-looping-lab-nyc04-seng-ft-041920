@@ -20,7 +20,7 @@ end
 
 def output_array (arr)
   count = 0
-  while arr[count] do 
+  while count < arr.length do 
     puts
 end 
   
