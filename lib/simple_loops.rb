@@ -33,7 +33,7 @@ def return_string_array (arr)
     newArr.push(arr[count].to_s)
     count += 1
   end
-  return newArr
+  p newArr
 end 
 
 return_string_array([1,2,3])
