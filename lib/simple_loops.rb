@@ -27,7 +27,7 @@ def output_array (arr)
 end 
 
 def return_string_array (arr)
-  
+  count = 0 
 end 
   
   
