@@ -21,7 +21,7 @@ end
 def output_array (arr)
   count = 0
   while count < arr.length do 
-    puts
+    puts arr[count]
 end 
   
   
