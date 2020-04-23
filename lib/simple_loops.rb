@@ -31,7 +31,7 @@ def return_string_array (arr)
   newArr = []
   while count < arr.length do 
     newArr.push(arr[count].to_str)
-    
+    count += 1
 end 
   
   
